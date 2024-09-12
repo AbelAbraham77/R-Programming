@@ -4,7 +4,7 @@ Welcome to my repository! This repository contains programming assignments I com
 
 ## Repository Structure
 
-- **Assignments/**  
+- **Assignments**  
   Contains all the assignments submitted during the course. Each assignment folder includes:
   - The R script(s) with code solutions.
   - Detailed comments and explanations for key steps in the code.
